@@ -1,0 +1,7 @@
+export const purple1 = '#45044F'
+export const purple2 = '#2F0459'
+export const navy = '#0F0742'
+export const darkblue = '#051C6B'
+export const blue2 = '#052338'
+export const white = '#ffffff'
+export const black = '#000000'
